@@ -1,0 +1,13 @@
+html.crtl-on [dir="rtl"] {
+  text-align: right !important;
+}
+
+html.crtl-on [dir="ltr"] {
+  text-align: left !important;
+}
+
+html.crtl-on :is(pre, code, kbd, samp, pre *, code *) {
+  direction: ltr !important;
+  text-align: left !important;
+  unicode-bidi: isolate !important;
+}
