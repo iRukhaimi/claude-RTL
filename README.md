@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.jpg" alt="Claude RTL — نورس" width="720" />
+</p>
+
 # Claude RTL
 
 A tiny browser extension that makes [claude.ai](https://claude.ai) read naturally
@@ -94,3 +98,9 @@ point is that this extension stays under a few KB.
 ## License
 
 [MIT](./LICENSE)
+
+## Credits
+
+Built and maintained by **نورس** — a project for open-source software and digital sovereignty.
+
+صُمّمت وتُصان من قِبَل **نورس** — مشروع مُكرَّس للمصادر المفتوحة والسيادة الرقمية.
