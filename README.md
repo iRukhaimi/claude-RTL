@@ -14,7 +14,7 @@ and continues in Arabic still flows right-to-left.
 ## Install (from source)
 
 ```bash
-git clone https://github.com/<you>/claude-RTL.git
+git clone https://github.com/irukhaimi/claude-RTL.git
 cd claude-RTL
 bash scripts/build.sh
 ```
