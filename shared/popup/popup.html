@@ -1,15 +1,16 @@
 <!doctype html>
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8" />
-    <title>Claude RTL</title>
+    <title data-i18n="popupTitle">Claude RTL</title>
     <style>
       :root { color-scheme: light dark; }
       body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui,
+          "Noto Sans Arabic", sans-serif;
         margin: 0;
         padding: 14px 16px;
-        min-width: 220px;
+        min-width: 240px;
         font-size: 14px;
       }
       h1 {
@@ -28,6 +29,7 @@
         width: 36px;
         height: 20px;
         flex: none;
+        direction: ltr;
       }
       .switch input {
         opacity: 0;
@@ -67,15 +69,15 @@
     </style>
   </head>
   <body>
-    <h1>Claude RTL</h1>
+    <h1 data-i18n="popupTitle">Claude RTL</h1>
     <div class="row">
-      <span>Auto RTL/LTR</span>
+      <span data-i18n="toggleLabel">Auto RTL/LTR</span>
       <label class="switch">
         <input type="checkbox" id="toggle" />
         <span class="slider"></span>
       </label>
     </div>
-    <div class="hint">Per-paragraph direction on claude.ai</div>
+    <div class="hint" data-i18n="popupHint">Per-paragraph direction on claude.ai</div>
     <script src="popup.js"></script>
   </body>
 </html>

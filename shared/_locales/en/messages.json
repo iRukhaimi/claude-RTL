@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Claude RTL",
+    "description": "Extension name shown in the store and toolbar."
+  },
+  "extDescription": {
+    "message": "Per-paragraph RTL/LTR auto-direction for claude.ai. Lightweight, no tracking.",
+    "description": "Extension description shown in the store."
+  },
+  "actionTitle": {
+    "message": "Claude RTL",
+    "description": "Tooltip on the toolbar icon."
+  },
+  "popupTitle": {
+    "message": "Claude RTL",
+    "description": "Heading at the top of the popup."
+  },
+  "toggleLabel": {
+    "message": "Auto RTL/LTR",
+    "description": "Label next to the on/off switch."
+  },
+  "popupHint": {
+    "message": "Per-paragraph direction on claude.ai",
+    "description": "Subtitle under the toggle explaining what the extension does."
+  }
+}

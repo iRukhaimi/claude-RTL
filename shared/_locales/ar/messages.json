@@ -1,0 +1,26 @@
+{
+  "extName": {
+    "message": "Claude RTL — دعم العربية",
+    "description": "Extension name shown in the store and toolbar."
+  },
+  "extDescription": {
+    "message": "إضافة خفيفة تجعل نصوص claude.ai تُحاذى تلقائياً يميناً ويساراً حسب لغة كل فقرة، مع إبقاء الكود LTR. بدون تتبّع.",
+    "description": "Extension description shown in the store."
+  },
+  "actionTitle": {
+    "message": "Claude RTL — دعم العربية",
+    "description": "Tooltip on the toolbar icon."
+  },
+  "popupTitle": {
+    "message": "Claude RTL",
+    "description": "Heading at the top of the popup."
+  },
+  "toggleLabel": {
+    "message": "تشغيل تلقائي يمين/يسار",
+    "description": "Label next to the on/off switch."
+  },
+  "popupHint": {
+    "message": "اتجاه مستقل لكل فقرة على claude.ai",
+    "description": "Subtitle under the toggle explaining what the extension does."
+  }
+}
