@@ -86,11 +86,7 @@ bash scripts/package.sh        # ينتج dist/claude-rtl-chromium.zip و claude
 المتاجر ترفض إعادة رفع نفس الإصدار.
 
 ### الـ Extension ID لفايرفوكس
-ملفنا يستخدم `claude-rtl@example.com` كـ placeholder. قبل النشر الرسمي، غيّرها لشي يملكه شخص موجود، مثلاً:
-```json
-"id": "claude-rtl@irukhaimi.dev"
-```
-(ما يلزم يكون بريد فعلي، لكن الدومين يفضل يكون ملكك أو مسجّل باسمك)
+المُعتَمد حالياً: `claude-rtl@alkindy.tech` (دومين المطوّر). لا تغيّره بعد أول نشر على AMO لأن AMO يربط الـ listing بالـ ID؛ أي تغيير بعدين يحتاج listing جديد.
 
 ### Screenshots المطلوبة
 أنصح تصوّر:

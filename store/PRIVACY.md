@@ -32,5 +32,6 @@ https://github.com/irukhaimi/claude-RTL
 
 ## Contact
 
-For questions or concerns, please open an issue at:
-https://github.com/irukhaimi/claude-RTL/issues
+For questions or concerns:
+- GitHub issues: https://github.com/irukhaimi/claude-RTL/issues
+- Email: Ibrahim@alkindy.tech

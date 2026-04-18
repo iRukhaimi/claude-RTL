@@ -23,7 +23,7 @@
   ],
   "browser_specific_settings": {
     "gecko": {
-      "id": "claude-rtl@example.com",
+      "id": "claude-rtl@alkindy.tech",
       "strict_min_version": "115.0"
     }
   }
